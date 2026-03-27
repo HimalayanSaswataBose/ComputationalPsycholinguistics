@@ -1,0 +1,14 @@
+1	S	NP VP
+0.71	NP	D N
+0.14	NP	D NP
+0.15	NP	N PP
+0.5	VP	V NP
+0.5	VP	V NP PP
+1	PP	P NP
+0.67	D	the
+0.33	D	a
+0.33	N	man
+0.33	N	soldier
+0.34	N	gun
+1	V	shot
+1	P	with
